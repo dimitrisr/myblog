@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Mundoreves</title>
+    <link>/work/</link>
+    <description>Recent content in Works on Mundoreves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Dimitris Rudas</copyright>
+    <lastBuildDate>Fri, 22 Jan 2016 19:31:14 +0200</lastBuildDate>
+    <atom:link href="/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>client requirements</title>
+      <link>/work/client-requirements/</link>
+      <pubDate>Fri, 22 Jan 2016 19:31:14 +0200</pubDate>
+      
+      <guid>/work/client-requirements/</guid>
+      <description>
+
+&lt;h1 id=&#34;client-requirements:f0cd9df4e68ac9907bf0584c4a3aff2a&#34;&gt;Client Requirements&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;c&lt;/th&gt;
+&lt;th&gt;Static&lt;/th&gt;
+&lt;th&gt;CMS&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Custom&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Updates&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
