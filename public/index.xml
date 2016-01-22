@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mundoreves</title>
-    <link>/</link>
+    <link>http://www.mundoreves.net/myblog/</link>
     <description>Recent content on Mundoreves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dimitris Rudas</copyright>
     <lastBuildDate>Fri, 22 Jan 2016 19:31:14 +0200</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.mundoreves.net/myblog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>client requirements</title>
-      <link>/work/client-requirements/</link>
+      <link>http://www.mundoreves.net/myblog/work/client-requirements/</link>
       <pubDate>Fri, 22 Jan 2016 19:31:14 +0200</pubDate>
       
-      <guid>/work/client-requirements/</guid>
+      <guid>http://www.mundoreves.net/myblog/work/client-requirements/</guid>
       <description>
 
 &lt;h1 id=&#34;client-requirements:f0cd9df4e68ac9907bf0584c4a3aff2a&#34;&gt;Client Requirements&lt;/h1&gt;
