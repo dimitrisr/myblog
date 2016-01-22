@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://www.mundoreves.net/myblog/"
 languageCode = "en-us"
 title = "Mundoreves"
 copyright = "Dimitris Rudas"
